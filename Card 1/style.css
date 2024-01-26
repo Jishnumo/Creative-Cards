@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -25,7 +26,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     border: 3px solid white;
-    transition:all 1s;
+    transition:all .7s;
 }
 .img2{
     bottom:-5px;
@@ -59,16 +60,15 @@
 h1{
     position: absolute;
     bottom: 0;
-    left: 27%;
-    color: #808080;
-    font-size: 3rem;
-    transition: all .5s;
+    left: 34%;
+    font-size: 2.5rem;
+    transition: all .6s;
     padding-bottom: 5px;
-    font-family: sans-serif;
+    font-family: 'Honk', system-ui;
     z-index: 2;
 
 }
 .img-container:hover h1{
-    transform: scale(1.1);
+    transform: scale(1.2);
     text-shadow: 0 0 10px rgba(255, 255, 255, 0.7);
 }

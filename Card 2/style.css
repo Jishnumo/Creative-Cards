@@ -3,3 +3,57 @@
     padding: 0;
     box-sizing: border-box;
 }
+.container{
+    height: 100vh;
+    width: 100%;
+    background: radial-gradient(circle at 10% 20%, rgb(69, 86, 102) 0%, rgb(34, 34, 34) 90%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img-cont{
+    width: 50%;
+    height: 350px;
+    background-color: aqua;
+    display: flex;
+}
+.img1{
+    background-image: url(spidermani1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    width: calc(50%/5);
+    border: 4px solid white;
+    border-radius: 28px;
+    margin-right:.8%
+}
+.img2{
+    background-image: url(ironmani2.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    width: calc(50%/5);
+    border: 4px solid white;
+    border-radius: 28px;
+    margin-right:.8%
+}
+.img3{
+    background-image: url(blackwidowi3.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    width: calc(50%/5);
+    border: 4px solid white;
+    border-radius: 28px;
+    margin-right:.8%
+}
+.img4{
+    background-image: url(hulki4.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    width: calc(50%/5);
+    border: 4px solid white;
+    border-radius: 28px;
+    margin-right:.8%
+}

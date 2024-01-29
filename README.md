@@ -5,3 +5,11 @@ HELLO EVERYONE,
 
 
      ![ezgif com-video-to-gif-converter (1)](https://github.com/Jishnumo/Creative-Cards/assets/147910757/dd10f544-d3f8-4d31-87ff-0d16f5691c1f)
+
+
+2. Card 2 gif
+
+
+
+
+   ![ezgif com-video-to-gif-converter (2)](https://github.com/Jishnumo/Creative-Cards/assets/147910757/f7c29baa-df52-4510-ba72-273780d51c8f)

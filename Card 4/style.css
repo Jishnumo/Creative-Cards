@@ -24,3 +24,21 @@
     background-color: blueviolet;
     border-top-left-radius: 100%;
 }
+.img2{
+    position: absolute;
+    right: 0;
+    width: 50%;
+    height: 50%;
+    background-color: rgb(30, 16, 43);
+    border-top-left-radius: 100%;
+    transform: rotate(90deg);
+}
+.img2{
+    position: absolute;
+    right: 0;
+    width: 50%;
+    height: 50%;
+    background-color: rgb(30, 16, 43);
+    border-top-left-radius: 100%;
+    transform: rotate(90deg);
+}
